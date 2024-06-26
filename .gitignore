@@ -2,5 +2,4 @@
 *.out
 *.log
 *.gz
-cv.tex
 .DS_Store
