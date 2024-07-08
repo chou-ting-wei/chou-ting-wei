@@ -10,4 +10,4 @@ Welcome to my GitHub profile! I'm 周廷威, currently a sophomore studying Comp
 
 ---
 
-Want to know more about me? Visit my personal blog at [userwei.com](https://www.userwei.com/).
+Want to know more about me? Visit my personal blog at [blog.userwei.com](https://www.blog.userwei.com/).
