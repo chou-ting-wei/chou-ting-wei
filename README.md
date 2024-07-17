@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I'm 周廷威, currently a sophomore studying Comp
 * NYCU CS Student Association - Development Department Member
 * Meichu Hackathon - Development Department Member
 
-## Additional Information
+## Contact Information
 
-If you have any questions or concerns, please feel free to contact me. For more personal information and contact details, please refer to my profile page: [userwei's Profile](https://profile.userwei.com/).
+If you have any questions or concerns, please feel free to contact me. For more personal information and contact details, please refer to my [personal profile](https://profile.userwei.com/).
